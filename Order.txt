@@ -1,0 +1,7 @@
+		Apple Tart		60 X 1 = 60.000000
+
+		 THE TOTAL = 300.000000 
+
+		       TAX = 10% 
+
+		    AMOUNT = 270.000000
